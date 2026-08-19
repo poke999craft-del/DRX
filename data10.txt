@@ -1,0 +1,22 @@
+{
+  "password": "DRX7777",
+  "passwords": [
+    "DRX7777",
+    "VIP888",
+    "PRO999",
+    "DARK777"
+  ],
+  "devTelegramLink": "https://t.me/ERROR_404_SYSTEM",
+  "joinTelegramLink": "https://t.me/+kRVlNNeA6FRjNjQ1",
+  "proTraderPassword": "PROTRADER2026",
+  "proTraderPasswords": [
+    "PROTRADER2026",
+    "VIPPRO2026",
+    "DRX66"
+  ],
+  "adminEmail": "admintom@gmail.com",
+  "adminPassword": "Sheriya",
+  "appName": "DRX-TM PRO",
+  "channelName": "DRX-TM AI VIP CHANNEL",
+  "subAdmins": []
+}
