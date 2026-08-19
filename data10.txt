@@ -4,10 +4,11 @@
     "DRX7777",
     "VIP888",
     "PRO999",
-    "DARK777"
+    "PRO8999",
+    "NAyeem12"
   ],
-  "devTelegramLink": "https://t.me/ERROR_404_SYSTEM",
-  "joinTelegramLink": "https://t.me/+kRVlNNeA6FRjNjQ1",
+  "devTelegramLink": "https://t.me/DARK67HACK",
+  "joinTelegramLink": "https://t.me/DARK67HACK",
   "proTraderPassword": "PROTRADER2026",
   "proTraderPasswords": [
     "PROTRADER2026",
