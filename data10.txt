@@ -2,7 +2,6 @@
   "password": "DRX7777",
   "passwords": [
     "DRX7777",
-    "VIP888",
     "PRO999",
     "PRO8999"
   ],
