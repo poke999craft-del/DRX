@@ -1,7 +1,6 @@
 {
-  "password": "DRX7777",
+  "password": "PRO999",
   "passwords": [
-    "DRX7777",
     "PRO999",
     "PRO8999"
   ],
