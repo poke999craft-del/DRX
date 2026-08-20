@@ -4,8 +4,7 @@
     "DRX7777",
     "VIP888",
     "PRO999",
-    "PRO8999",
-    "NAyeem12"
+    "PRO8999"
   ],
   "devTelegramLink": "https://t.me/DARK67HACK",
   "joinTelegramLink": "https://t.me/DARK67HACK",
