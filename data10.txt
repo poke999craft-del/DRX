@@ -9,7 +9,8 @@
   "proTraderPasswords": [
     "PROTRADER2026",
     "222222",
-    "22222"
+    "22222",
+    "2"
   ],
   "adminEmail": "admintom@gmail.com",
   "adminPassword": "Sheriya",
