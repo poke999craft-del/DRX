@@ -5,9 +5,8 @@
   ],
   "devTelegramLink": "https://t.me/DARK67HACK",
   "joinTelegramLink": "https://t.me/DARK67HACK",
-  "proTraderPassword": "VIPPRO2026",
+  "proTraderPassword": "DRX66",
   "proTraderPasswords": [
-    "VIPPRO2026",
     "DRX66"
   ],
   "adminEmail": "admintom@gmail.com",
