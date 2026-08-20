@@ -1,8 +1,7 @@
 {
-  "password": "PRO999",
+  "password": "DRX7777",
   "passwords": [
-    "PRO999",
-    "PRO8999"
+    "DRX7777"
   ],
   "devTelegramLink": "https://t.me/DARK67HACK",
   "joinTelegramLink": "https://t.me/DARK67HACK",
