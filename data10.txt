@@ -3,7 +3,7 @@
   "passwords": [
     "DRX7777"
   ],
-  "devTelegramLink": "https://t.me/DARK67HACK",
+  "devTelegramLink": "@SIYAM_BHAI_OWNER",
   "joinTelegramLink": "https://t.me/DARK67HACK",
   "proTraderPassword": "PROTRADER2026",
   "proTraderPasswords": [
@@ -15,6 +15,6 @@
   "adminEmail": "admintohm@gmail.com",
   "adminPassword": "Shenriya",
   "appName": "Sʜᴀᴅᴏᴡ × Sɪʏᴀᴍ",
-  "channelName": "DRX-TM AI VIP",
+  "channelName": "Sʜᴀᴅᴏᴡ × Sɪʏᴀᴍ",
   "subAdmins": []
 }
