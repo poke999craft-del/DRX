@@ -14,7 +14,7 @@
   ],
   "adminEmail": "admintohm@gmail.com",
   "adminPassword": "Shenriya",
-  "appName": "k",
+  "appName": "Sʜᴀᴅᴏᴡ × Sɪʏᴀᴍ",
   "channelName": "DRX-TM AI VIP",
   "subAdmins": []
 }
