@@ -1,7 +1,8 @@
 {
   "password": "DRX7777",
   "passwords": [
-    "DRX7777"
+    "DRX7777",
+    "SR"
   ],
   "devTelegramLink": "@SIYAM_BHAI_OWNER",
   "joinTelegramLink": "https://t.me/DARK67HACK",
