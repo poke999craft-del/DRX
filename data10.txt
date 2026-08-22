@@ -6,9 +6,9 @@
     "FUCK"
   ],
   "password": "NAYEEM999",
-  "channel": "https://t.me/DARK67HACK",
-  "joinTelegramLink": "https://t.me/DARK67HACK",
-  "devTelegramLink": "https://t.me/DARK67HACK",
+  "channel": "@SIYAM_BHAI_OWNER",
+  "joinTelegramLink": "@SIYAM_BHAI_OWNER",
+  "devTelegramLink": "@SIYAM_BHAI_OWNER",
   "channelName": "https://t.me/DARK67HACK",
   "appName": "DRX-TM PRO",
   "proTraderPasswords": [
