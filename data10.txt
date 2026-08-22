@@ -1,22 +1,5 @@
 {
-  "password": ".",
-  "passwords": [
-    ".",
-    ".",
-    "sr"
-  ],
-  "devTelegramLink": "@MD_NAYEEM_DRX_TM",
-  "joinTelegramLink": "https://t.me/DARK67HACK",
-  "proTraderPassword": ".",
-  "proTraderPasswords": [
-    ".",
-    ".",
-    ".",
-    "."
-  ],
-  "adminEmail": "admintohm...@gmail.com",
-  "adminPassword": "Shen...riya",
-  "appName": "Sʜᴀᴅ..ᴏᴡ × Sɪʏᴀᴍ",
-  "channelName": "Sʜᴀᴅᴏᴡ × Sɪ.ʏᴀᴍ",
-  "subAdmins": []
-}
+  "password": "NAYEEM999",
+	"password": ".",
+	"password": ".",
+  }
