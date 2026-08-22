@@ -1,21 +1,21 @@
 {
-  "password": "DRX7777",
+  "password": ".",
   "passwords": [
-    "DRX7777",
-    "SR"
+    ".",
+    "."
   ],
-  "devTelegramLink": "@SIYAM_BHAI_OWNER",
+  "devTelegramLink": "@MD_NAYEEM_DRX_TM",
   "joinTelegramLink": "https://t.me/DARK67HACK",
-  "proTraderPassword": "PROTRADER2026",
+  "proTraderPassword": ".",
   "proTraderPasswords": [
-    "PROTRADER2026",
-    "NAyeem12",
-    "22222",
-    "2"
+    ".",
+    ".",
+    ".",
+    "."
   ],
-  "adminEmail": "admintohm@gmail.com",
-  "adminPassword": "Shenriya",
-  "appName": "Sʜᴀᴅᴏᴡ × Sɪʏᴀᴍ",
-  "channelName": "Sʜᴀᴅᴏᴡ × Sɪʏᴀᴍ",
+  "adminEmail": "admintohm...@gmail.com",
+  "adminPassword": "Shen...riya",
+  "appName": "Sʜᴀᴅ..ᴏᴡ × Sɪʏᴀᴍ",
+  "channelName": "Sʜᴀᴅᴏᴡ × Sɪ.ʏᴀᴍ",
   "subAdmins": []
 }
