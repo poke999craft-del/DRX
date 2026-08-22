@@ -2,7 +2,8 @@
   "password": ".",
   "passwords": [
     ".",
-    "."
+    ".",
+    "sr"
   ],
   "devTelegramLink": "@MD_NAYEEM_DRX_TM",
   "joinTelegramLink": "https://t.me/DARK67HACK",
