@@ -1,5 +1,17 @@
 {
+  "passwords": [
+    "NAYEEM999",
+    ".",
+    "SR-AIYES69"
+  ],
   "password": "NAYEEM999",
-	"password": ".",
-	"password": ".",
-  }
+  "channel": "https://t.me/DARK67HACK",
+  "joinTelegramLink": "https://t.me/DARK67HACK",
+  "devTelegramLink": "https://t.me/DARK67HACK",
+  "channelName": "DARK67 VIP HACK",
+  "appName": "DRX-TM PRO",
+  "proTraderPasswords": [
+    "PROTRADER2026"
+  ],
+  "proTraderPassword": "PROTRADER2026"
+}
